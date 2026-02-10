@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Miao Yu / Site Title"
+title                    : "Miao Yu's homepage"
 title_separator          : "-"
 name                     : &name "Miao Yu"
 description              : &description " Sichuan University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://miaoyu-scu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,10 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Miao Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate, School of Literature and Journalism, Sichuan University"
   location         : "Chengdu"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Sichuan University"
   email            : "yumiao1997@stu.scu.edu.cn" 
 
   # Academic websites
