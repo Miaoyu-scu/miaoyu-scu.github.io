@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Miao Yu is a Ph.D. Candidate specializing in Internet and New Media at the School of Literature and Journalism, Sichuan University. Her research focuses on the intersection of digital platforms, urban space, and everyday knowledge. Currently, she is investigating the "everyday knowledge landscape" on the Xiaohongshu platform, examining how digital ecosystems reshape contemporary social practices.
+Hello！I am **Miao Yu**, a doctoral student at the College of Literature and Journalism at Sichuan University. 
 
+My research primarily lies at the intersection of **Science and Technology Studies (STS)**, **media studies**, **platform studies**, and **urban studies**. 
+
+As a qualitative researcher, I am dedicated to exploring how technological infrastructures and media practices shape spatial dynamics and everyday life. My current doctoral research focuses on the spatial and social implications of urban infrastructures, utilizing the Tianfu Greenway in Chengdu as a primary case study to examine the interplay between space, media, and society.
 
 Education
 ======
@@ -52,13 +55,11 @@ For site content, there is one Markdown file for each type of content, which are
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+News
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* **[2026.01]** My paper on the social mapping application Zenly has been accepted for presentation at the **2026 International Communication Association (ICA) Annual Conference** in Cape Town. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+* **[2026.01]** Attended the 5th "Communication and China" Academic Workshop hosted by the Center for Information and Communication Studies at Fudan University.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
