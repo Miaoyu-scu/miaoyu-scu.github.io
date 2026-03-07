@@ -18,47 +18,44 @@ As a qualitative researcher, I am dedicated to exploring how technological infra
 * **B.F. in Art History and Cultural Heritage**, Sichuan Fine Arts Institute (Sep 2016 - Jun 2020)
 
 
+## 💻 Research Projects & Grants
+* [cite_start]**The Social Construction of Digital Maps** [cite: 15]
+  * [cite_start]*Principal Investigator*, Sichuan University 'From 0 to 1' Major Project [cite: 14, 15]
+* [cite_start]**A Study of the Collective Memory Project of the Nanjing Massacre Memorial Hall** [cite: 14]
+  * [cite_start]*Principal Investigator*, China National Social Science Fund Project (Completed) [cite: 13, 14]
+* [cite_start]**The "300 Million People's Encyclopedia": Everyday Knowledge Landscape on the Xiaohongshu Platform** [cite: 7]
+  * Ph.D. [cite_start]Research [cite: 6, 7]
+* [cite_start]**Where Is It Disconnected: Surveillance Practices in Digital Social Maps** [cite: 8]
+  * [cite_start]M.A. Research [cite: 7, 8]
+* [cite_start]**The Media Gaze on Place: The Re-writing of Urban Maps by Xiaohongshu** [cite: 9]
+  * [cite_start]M.A. Research [cite: 7, 9]
+* [cite_start]**Building "Place" in Community "Space": A Case Study of the "Digua Community" in Chengdu** [cite: 10]
+  * [cite_start]Graduate Research [cite: 10]
+* [cite_start]**Hunting for Love: An Anthropological Study of the Matchmaking Corner in Chongqing's Hongya Cave** [cite: 11]
+  * [cite_start]Course Paper / Anthropological Fieldwork [cite: 11]
+* [cite_start]**Twenty Years in the Military: An Old Soldier's Account of Three Foreign Wars** [cite: 11]
+  * [cite_start]Course Paper [cite: 11]
 
-Research Experience
-======
-- Sichuan University（09/2023 - Present）: Ph.D. Researcher 
-	- Project: Everyday Knowledge Landscape on the Xiaohongshu Platform
-- Sichuan University（09/2020 - 06/2023）: M.A. Researcher
-	- Projects: Surveillance Practices in Digital Social Maps
-- Sichuan Fine Arts Institute（09/2016 - 06/2020）: Undergraduate Researcher
-	- Project: Anthropological Study of the Matchmaking Corner in Chongqing
+
+## 📢 Conferences & Presentations
+* **[2026.06]** *76th Annual Conference of the International Communication Association (ICA)*, Cape Town, South Africa.
+* **[2026.06]** *'Tourism, Memory and Heritage' 2026 Conference*, Amsterdam & Wageningen, the Netherlands.
+* **[2025.11]** *5th "Communication and China" Academic Workshop*, Fudan University & Guangdong University of Foreign Studies.
+* [cite_start]**[2025.07]** *The "Future and Guidance: Boundaries and Imagination of the New Generation of Communication Studies" Graduate Student Conference*, 60th Anniversary of the School of Journalism and Communication, The Chinese University of Hong Kong[cite: 17].
+* [cite_start]**[2024.07]** *"Sino-Foreign Journalism and Communication Theory and Research Methods" Graduate Summer School*, Fudan University[cite: 18].
+* [cite_start]**[2024.05]** *1st "Digital Communication and Media China" Academic Symposium* (Paper won Third Prize)[cite: 19, 21].
 
 
-Academic Projects
-------
-- Principal Investigator, China National Social Science Fund Project
-	- A Study of the Collective Memory Project of the Nanjing Massacre Memorial Hall
-- Principal Investigator, Sichuan University 'From 0 to 1' Major Project
-	- The Social Construction of Digital Maps
+## 📢 Recent News
+* **[2026.02]** My abstract exploring the emotional geographies of cultural production and memory-making has been accepted for the **'Tourism, Memory and Heritage' 2026 Conference** in the Netherlands.
+* **[2026.01]** My paper, "Constructing 'Context-Aware Presence' on Digital Maps: A Case Study of Zenly," was accepted for presentation at the **76th Annual Conference of the International Communication Association (ICA)** in Cape Town.
+* **[2025.11]** Attended the 5th "Communication and China" Academic Workshop focusing on "Smart Media and Chinese Metropolitan Areas" hosted by Fudan University and Guangdong University of Foreign Studies.
 
 
+## ✉️ Contact
+* **Email**: yumiao1997@stu.scu.edu.cn
+* **GitHub**: [miaoyu-scu](https://github.com/miaoyu-scu)
 
-Conferences & Presentations
-------
-- Graduate Student Conference, 60th Anniversary of the School of Journalism and Communication, The Chinese University of Hong Kong, July 2025.
-	-Topic: Future and Guidance: Boundaries and Imagination of the New Generation of Communication Studies
-- Graduate Summer School, Fudan University, July 2024.
-	-Theme: Sino-Foreign Journalism and Communication Theory and Research Methods
-- Academic Symposium, 1st "Digital Communication and Media China", May 2024.
-	-Paper Presentation: Awarded Third Prize
-
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-News
-------
-* **[2026.01]** My paper on the social mapping application Zenly has been accepted for presentation at the **2026 International Communication Association (ICA) Annual Conference** in Cape Town. 
-
-* **[2026.01]** Attended the 5th "Communication and China" Academic Workshop hosted by the Center for Information and Communication Studies at Fudan University.
 
 
 
