@@ -19,17 +19,23 @@ As a qualitative researcher, I am dedicated to exploring how technological infra
 * **B.F. in Art History and Cultural Heritage**, Sichuan Fine Arts Institute (Sep 2016 - Jun 2020)
 
 
-## 💻 Research Projects & Grants
-* **The Social Construction of Digital Maps** 
-  * *Principal Investigator*, Sichuan University 'From 0 to 1' Major Project
+## 🔬 Research Experience
+* **Ph.D. Research**
+  * The "300 Million People's Encyclopedia": Everyday Knowledge Landscape on the Xiaohongshu Platform 
+* **M.A. Research**
+  * Where Is It Disconnected: Surveillance Practices in Digital Social Maps 
+  * The Media Gaze on Place: The Re-writing of Urban Maps by Xiaohongshu 
+  * Building "Place" in Community "Space": A Case Study of the "Digua Community" in Chengdu 
+* **Undergraduate Research & Fieldwork**
+  * Hunting for Love: An Anthropological Study of the Matchmaking Corner in Chongqing's Hongya Cave 
+  * Twenty Years in the Military: An Old Soldier's Account of Three Foreign Wars 
+
+
+## 💻 Academic Projects 
+* **The Social Construction of Digital Maps**
+  * *Principal Investigator*, Sichuan University 'From 0 to 1' Major Project 
 * **A Study of the Collective Memory Project of the Nanjing Massacre Memorial Hall**
   * *Principal Investigator*, China National Social Science Fund Project (Completed) 
-* **The "300 Million People's Encyclopedia": Everyday Knowledge Landscape on the Xiaohongshu Platform** （Ph.D. Research） 
-* **Where Is It Disconnected: Surveillance Practices in Digital Social Maps** （M.A. Research） 
-* **The Media Gaze on Place: The Re-writing of Urban Maps by Xiaohongshu** （M.A. Research） 
-* **Building "Place" in Community "Space": A Case Study of the "Digua Community" in Chengdu** （Graduate Research） 
-* **Hunting for Love: An Anthropological Study of the Matchmaking Corner in Chongqing's Hongya Cave** （Course Paper / Anthropological Fieldwork） 
-* **Twenty Years in the Military: An Old Soldier's Account of Three Foreign Wars** （Course Paper） 
 
 
 ## 📢 Conferences & Presentations
