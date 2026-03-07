@@ -24,18 +24,12 @@ As a qualitative researcher, I am dedicated to exploring how technological infra
   * *Principal Investigator*, Sichuan University 'From 0 to 1' Major Project
 * **A Study of the Collective Memory Project of the Nanjing Massacre Memorial Hall**
   * *Principal Investigator*, China National Social Science Fund Project (Completed) 
-* **The "300 Million People's Encyclopedia": Everyday Knowledge Landscape on the Xiaohongshu Platform** 
-  * Ph.D. Research 
-* **Where Is It Disconnected: Surveillance Practices in Digital Social Maps** 
-  * M.A. Research 
-* **The Media Gaze on Place: The Re-writing of Urban Maps by Xiaohongshu** 
-  * M.A. Research 
-* **Building "Place" in Community "Space": A Case Study of the "Digua Community" in Chengdu** 
-  * Graduate Research 
-* **Hunting for Love: An Anthropological Study of the Matchmaking Corner in Chongqing's Hongya Cave** 
-  * Course Paper / Anthropological Fieldwork 
-* **Twenty Years in the Military: An Old Soldier's Account of Three Foreign Wars** 
-  * Course Paper 
+* **The "300 Million People's Encyclopedia": Everyday Knowledge Landscape on the Xiaohongshu Platform** （Ph.D. Research） 
+* **Where Is It Disconnected: Surveillance Practices in Digital Social Maps** （M.A. Research） 
+* **The Media Gaze on Place: The Re-writing of Urban Maps by Xiaohongshu** （M.A. Research） 
+* **Building "Place" in Community "Space": A Case Study of the "Digua Community" in Chengdu** （Graduate Research） 
+* **Hunting for Love: An Anthropological Study of the Matchmaking Corner in Chongqing's Hongya Cave** （Course Paper / Anthropological Fieldwork） 
+* **Twenty Years in the Military: An Old Soldier's Account of Three Foreign Wars** （Course Paper） 
 
 
 ## 📢 Conferences & Presentations
