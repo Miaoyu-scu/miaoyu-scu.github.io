@@ -8,17 +8,16 @@ redirect_from:
 ---
 
 Hello！I am **Miao Yu**, a doctoral student at the College of Literature and Journalism at Sichuan University. 
-
 My research primarily lies at the intersection of **Science and Technology Studies (STS)**, **media studies**, **platform studies**, and **urban studies**. 
-
 As a qualitative researcher, I am dedicated to exploring how technological infrastructures and media practices shape spatial dynamics and everyday life. My current doctoral research focuses on the spatial and social implications of urban infrastructures, utilizing the Tianfu Greenway in Chengdu as a primary case study to examine the interplay between space, media, and society.
 
-Education
-======
 
-- Ph.D. Candidate in Internet and New Media, School of Literature and Journalism, Sichuan University, 2023 - Present 
-- M.A. in Journalism and Communication, School of Literature and Journalism, Sichuan University, 2020 - 2023 
-- B.F. in Art History and Cultural Heritage, School of Arts and Humanities, Sichuan Fine Arts Institute, 2016 - 2020
+## 🎓 Education
+* **Ph.D. in Internet and New Media**, Sichuan University (Sep 2023 - Present)
+* **M.A. in Journalism and Communication**, Sichuan University (Sep 2020 - Jun 2023)
+* **B.F. in Art History and Cultural Heritage**, Sichuan Fine Arts Institute (Sep 2016 - Jun 2020)
+
+
 
 Research Experience
 ======
