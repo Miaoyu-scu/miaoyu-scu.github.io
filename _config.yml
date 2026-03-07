@@ -23,7 +23,7 @@ repository               : "miaoyu-scu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo.jpeg"
+  avatar           : "bio-photo.jpeg"
   name             : "Miao Yu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, @SCU"
